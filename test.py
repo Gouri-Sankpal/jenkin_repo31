@@ -1,1 +1,1 @@
-print("hello buddy-31")
+print"hello buddy-31")
